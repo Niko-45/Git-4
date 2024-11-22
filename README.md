@@ -21,7 +21,6 @@ Branches in Git provide a way to:
 ## Basic Git Branch Commands
 
 ### 1. **Create a New Branch**
-```bash
 git branch <branch-name>
 # Branching Workflows and Best Practices
 
