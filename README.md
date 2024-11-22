@@ -49,3 +49,5 @@ A simplified workflow primarily used in GitHub-based projects:
 - **Create short-lived branches**: Avoid long-lived branches that diverge too much from `main`, as they can be harder to merge later.
 - **Use descriptive branch names**: Make the purpose of the branch clear with names like `feature/login-page`, `bugfix/issue-123`, or `hotfix/crash-fix`.
 - **Regularly merge changes**: Ensure that you merge changes from `main` into your feature branches to avoid major merge conflicts.
+![Alt text](branch.jpg)
+
